@@ -1,0 +1,15 @@
+{
+  "name": "praveen-ssh",
+  "version": "0.1.0",
+  "author": "praveen poreddy",
+  "summary": "ssh test module installing and enabling service",
+  "license": "Apache-2.0",
+  "source": "git@github.com:prpraveenreddy9/puppetmodules.git",
+  "project_page": "git@github.com:prpraveenreddy9/puppetmodules.git",
+  "issues_url": "git@github.com:prpraveenreddy9/puppetmodules.git",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
